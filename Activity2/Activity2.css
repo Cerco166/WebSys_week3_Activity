@@ -1,0 +1,10 @@
+body {
+  background: white;
+  font-family: Arial, san-serif;
+  background-color: #808080;
+  
+}
+
+h1 ~ p {color: #FFFF00;}
+
+}
